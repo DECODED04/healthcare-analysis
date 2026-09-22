@@ -14,3 +14,6 @@ How do patient admissions, insurance providers, length of stay, and healthcare c
 - Pivot Tables
 - Pivot Charts
 - Excel Slicers
+## Dashboard
+
+![Healthcare Analysis Dashboard](images/Healthcare-dashboard.png)
