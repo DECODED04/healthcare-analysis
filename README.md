@@ -17,3 +17,11 @@ How do patient admissions, insurance providers, length of stay, and healthcare c
 ## Dashboard
 
 ![Healthcare Analysis Dashboard](images/Healthcare-dashboard.png)
+
+## Key Insights
+
+- The dataset contains **55,500 patients**, all of whom were covered by insurance.
+- Patients spent an average of approximately **16 days** admitted in the hospital.
+- Admissions were highest in **2020**, with **11,285 admissions**, followed closely by **2023** with **11,026 admissions**.
+- Admissions dropped significantly to **3,854 in 2024**, compared with the previous years.
+- The average billing amount across patients was approximately **$25,539**.
